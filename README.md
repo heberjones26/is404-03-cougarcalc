@@ -1,3 +1,3 @@
 ## Merge Conflict Practice
 
-Favorite color: blue
+Favorite color: crimson because i'm cool
